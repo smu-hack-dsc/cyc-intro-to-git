@@ -3,14 +3,29 @@
 
 =======
 Dear McDonalds,
-
+helllooooooooooooooooooo?
 huat
 
 Happy Meal
 
 
 I cook fries perfectly, 1 grain salt per fry !
->>>>>>> 268422f35fb60ac1dd7721841c3178dbdb0cba90
 I will never give extra curry sauce when they ask for extra
+<<<<<<< HEAD
+>>>>>>> d6cad402691895d11d5ebf30f7e22deac220f817
 
- I look forward to flipping burgers
+ I look forward to flipping burgers!!!
+
+
+
+
+
+
+
+
+
+[i love mcdonalds](https://www.youtube.com/watch?v=SE1B3N_a7fE)
+=======
+
+
+>>>>>>> 4ea769c25aa3b147fecd8b4e19f7402bdba7dc50
