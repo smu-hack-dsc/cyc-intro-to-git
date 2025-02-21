@@ -36,7 +36,7 @@ Thank you for your time and consideration. I’ll be waiting by my phone, ready 
 
 >>>>>>> 4ea769c25aa3b147fecd8b4e19f7402bdba7dc50
 
-                      .          .                       ..                        .               
+                       .          .                       ..                        .               
  ..             .         .              .         .         .    .        .          .    .        
     .        .    .    .         .     .        .    .         .    ..    .             .    .      
  .    .         .   %####*                              .    .                             .        
@@ -73,4 +73,4 @@ Thank you for your time and consideration. I’ll be waiting by my phone, ready 
                              .  ,((((((((((((((((((((((((((///*.                                    
  .     .        .                       .,,//(((##(/*,...         .    .    .              .        
                   .         ..                       .         .          .              .          
-                                                                                      .  
+                                                                                      .             
