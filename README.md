@@ -11,6 +11,7 @@ Happy Meal
 
 I cook fries perfectly, 1 grain salt per fry !
 I will never give extra curry sauce when they ask for extra
+I give the same amount of fries for upsize and no upsize
 <<<<<<< HEAD
 >>>>>>> d6cad402691895d11d5ebf30f7e22deac220f817
 
